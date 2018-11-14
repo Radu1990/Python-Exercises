@@ -1,0 +1,16 @@
+#looping and counting
+#word = "banana"
+#count = 0
+#for letter_x in word:
+#    if letter_x == "a":
+#        count = count + 1
+#print(count)
+
+####making a function out of it
+def lettercounter(word):
+    count = 0
+    for x in word:
+        if x == "a":
+            count = count + 1
+    print(count)
+lettercounter("americanananananana")
