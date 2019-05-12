@@ -2,7 +2,7 @@
 Hello world! I added here everything I did while learning Python 3.0
 
 Books:
-**Think Python** by Allen B. Downey
+**Think Python** by Allen B. Downey and
 **Python for Everybody: Exploring Data in Python 3** by Charles Severance
 
 Online course I followed:
