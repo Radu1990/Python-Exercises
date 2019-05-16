@@ -36,4 +36,5 @@ def most_frequent(inp_string):
         print('Letter frequency for ', x, wf_reversed[x])
     #  printing the keys and values (values and keys) from the new dictionary in the order from the sorted list
 
+
 most_frequent(s_text)

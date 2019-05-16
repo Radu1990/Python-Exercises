@@ -2,7 +2,7 @@ def sed(pattern_string, replacement_string, filename_1, filename_2):
 
     fin = open(filename_1)
     fout = open(filename_2, 'w')
-    new_string = ''
+
     for line in fin:
         words = line.split()
         print(words)

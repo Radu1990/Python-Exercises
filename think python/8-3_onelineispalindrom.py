@@ -25,4 +25,4 @@ def is_palindrome(word):
         print("Fake news!")
         return False
 
-is_palindrome('booobs')
+is_palindrome('doood')

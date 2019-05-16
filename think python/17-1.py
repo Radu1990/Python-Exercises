@@ -27,8 +27,6 @@ class Time:
         minutes = hour * 60 + minute
         self.seconds = minutes * 60 + second
 
-
-
     def __str__(self):
         """Returns a string representation of the time."""
         return '%.2d:%.2d:%.2d' % (self.hour, self.minute, self.second)

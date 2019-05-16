@@ -54,10 +54,7 @@ def choose_from_histogram(t):
 
     for i in range(10):
         rand_c = random.choice(random_lst)
-        print('"',rand_c,'"', 'with probability', t[rand_c],"/", len(t
-
-                                                                     ))
-
+        print('"', rand_c, '"', 'with probability', t[rand_c],"/", len(t))
 
 
 choose_from_histogram(var_1)
